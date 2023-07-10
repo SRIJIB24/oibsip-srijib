@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    min-height: 100vh;
+}
+
+.text{
+     text-align: center;
+     
+}
+
+.botton{
+    padding: 20px;
+    margin: 3px;
+    border: 2px solid red;
+    border-radius: 9px;
+}
+
+.bg-red{
+    background: blue;
+}
+.margin{
+    margin: auto;
+}
+.mx-auto{
+    max-width: 19vw;
+}
+.item-center{
+     align-items: center;
+}
+.io-portion{
+   background:black;
+}
+.input{
+    padding: 33px;
+    margin: 4px;
+    border: 3px solid blue;
+    border-radius: 6px;
+}
